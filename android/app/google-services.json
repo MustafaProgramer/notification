@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "361787425173",
+    "firebase_url": "https://noti-a10fb.firebaseio.com",
+    "project_id": "noti-a10fb",
+    "storage_bucket": "noti-a10fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361787425173:android:8efabc39be8b53ee",
+        "android_client_info": {
+          "package_name": "com.example.noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361787425173-paf4899logmnq2pbbvotsoj6flfpg3na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX7yN4OTzH1ozh_5jH2r9ZEE-Aa0j_z6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
